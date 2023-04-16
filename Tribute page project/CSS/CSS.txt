@@ -1,0 +1,69 @@
+.header-1 {
+  text-align: center;
+  font-size: 100px;
+  color:rgb(42, 43, 41);
+font-family: 'Times New Roman', Times, serif;
+}
+
+fieldset {
+  background: linear-gradient(to right, #091804, #edccfa, #091804);
+  border-color:#091804
+}
+
+p {
+  text-shadow: 5 5 30px black;
+  font-size: 30px;
+  color:rgb(242, 248, 229);
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+}
+
+body {
+  background-color:black
+}
+
+.color {
+  text-shadow: 5 5 30px black;
+  color:rebeccapurple;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+}
+
+.text-1 {
+  text-shadow: 5 5 30px black;
+  font-size: 20px;
+  color:rgb(242, 248, 229);
+  text-align: center;
+  font-family:'Times New Roman', Times, serif;
+}
+
+.image {
+  max-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.image-caption {
+color: rgb(139, 80, 2);
+text-align: center;
+text-shadow: 5 5 30px rgb(61, 78, 53);
+}
+
+.image-div {
+ color: blueviolet;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: gray;
+}
+
+.text-2 {
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+}

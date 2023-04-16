@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title id="title">tribute page</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<main id="main">
+
+  <fieldset>
+  <div class="header-1">
+    <header>Governor William Phips</header>
+    <div class="text-2">February 2, 1651 – February 18, 1695</div>
+  </div>
+</fieldset>
+
+<p>The man that ended <div class="color">the Salem witch trails</div></p>
+
+<fieldset>
+  <div class="tribute-info">
+<h1>Who was Governor William Phips? </h1>
+<p><div class="text-1">Sir William Phips was born in Maine in the Massachusetts Bay Colony and was of humble origin, uneducated, and fatherless from a young age but rapidly advanced from shepherd boy, to shipwright, ship's captain, and treasure hunter, the first New England native to be knighted, and the first royally appointed governor of the Province of Massachusetts Bay. Phips was famous in his lifetime for recovering a large treasure from a sunken Spanish galleon but is perhaps best remembered today for establishing the court associated with the infamous Salem Witch Trials, which he grew unhappy with and forced to prematurely disband after five months.</div></p>
+</fieldset> 
+<div class="image-div"></div>
+<div class="image"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salem_witch2.jpg/800px-Salem_witch2.jpg">
+  </div> </div>
+  <div class="image-caption"><text>Depiction of a common accused in court.</text></div>
+<fieldset>
+  <h1>The Salem witch trails and the part Governor William Philps played in ending it.</h1>
+  <p><div class="text-1">Phips and Increase Mather reached Boston in separate ships on May 14, 1692. This was a Saturday afternoon, meaning all activity was to cease at sundown according to the old Puritan laws regarding the sabbath. Unlike his arrival in HMS Rose in 1683, when Phips showed little regard for the sabbath, on this occasion Phips was highly deferential toward the theocracy. Phips' elaborate swearing-in ceremony at the meeting house was halted at sundown and delayed until the following Monday. According to one letter writer, Phips presented himself as having no intentions to oppose the ancient laws and customs of Puritan Boston. He promised to rule as a weak governor, according to the tradition of his predecessors. The speech itself had likely been crafted with the care and attention of Increase Mather as they crossed the Atlantic. They seemed to have come to an agreement—you work your side of the street and I'll work mine—whereby Phips would tend to the frontier while Increase Mather and his slate of cohorts would see to domestic affairs.</div> </p>
+
+    <p><div class="text-1">Unfortunately, their crossing also coincided with the great swelling of the infamous witchcraft hysteria. More than 125 people had been arrested on charges of witchcraft and were being held in Boston and Salem prisons. On May 27, a special Court of Oyer and Terminer was created to hear the accumulated cases. This may have been Increase Mather's idea, as such courts were specifically mentioned in the new Charter, and no one had spent more time working on the details of the Charter than Increase Mather. Nonetheless, Phips signed the Order and may have composed it. The language of the Order itself is curious, as it speaks of concern for the welfare of those "imprisoned during this hot time of the year." Increase Mather's pick for Lieutenant Governor, William Stoughton, was chosen as Chief Judge of this new court. There was little then to indicate that Stoughton would proceed with such ruthless conviction. Phips later claimed to have chosen nominations for the Court from "persons of the best prudence and figure that could then be pitched upon" and indeed, as Thomas Brattle pointed out, most were well-known and respected merchants from the Boston area.</div> </p>
+
+      <p><div class="text-1">On June 8, William Stoughton ordered a woman accused of witchcraft (Bridget Bishop) to be executed only two days later, though tradition had been to allow at least four days between order and execution. The following Monday the clergy all around Boston area were asked to officially weigh in on the issue. There is no official record of this meeting except what was written down by Increase Mather's son Cotton Mather and usually referred to as The Return of the Ministers. This was put into print at the end of the 1692 in a book by Increase Mather, after Phips' had disrupted the trials and disbanded the Court of Oyer and Terminer. The manuscript was unknown to historians until 1943, when it was presented to archivists in a trove of documents including the infamous Letter from Cotton Mather to William Stoughton, September 2, 1692. Cotton Mather's manuscript is carefully scribed with few cross-outs or mistakes, suggesting it was not so much "minutes" of a meeting as a careful construction after the fact. It is not endorsed by any minister or government official. According to Cotton Mather's telling, the ministers at the gathering simultaneously urged both caution and speedy prosecution. Most importantly, Cotton Mather's Return does not disallow, or discredit, the admission of spectral evidence (accusations of a crime committed by one's "spector", against which there is no alibi possible). The Mathers, father and son, continued to debate this issue and with other area ministers, like Samuel Willard, throughout the summer and into the fall, as documented by the minutes of the Cambridge Association.</div> </p>
+
+        <p><div class="text-1">At the end of June, five more women were condemned to die. Phips granted a reprieve to one of these, but was impressed upon "by some Salem gentlemen" to take it back. At this point, Phips seemed to wash his hands of the proceedings, not relishing the idea of gaining the enmity of his own Lieutenant Governor and powerful clergymen including the fully committed Cotton Mather,and the somewhat more waffling Increase Mather. There is no record of Phips ever having travelled north to meet any of the "afflicted", or attend a single Oyer and Terminer trial, or execution. Instead, Phips continued to work on recruiting troops and gathering supplies to build a fort in Maine, and he left the province around August 1 and was gone the entire month and much of September. William Stoughton seems to have officially taken over executive powers in this period of Phips' absence.</div> </p>
+
+          <p><div class="text-1">French and Indian raids had resumed in the years following Phips' 1690 expeditions, so he sought to improve the province's defenses. Pursuant to his instructions from London, in 1692 he oversaw the construction of a stone fort, which was dubbed Fort William Henry, at Pemaquid (present-day Bristol, Maine), where a wooden fort had been destroyed in 1689. He recruited Major Benjamin Church to lead a 450-man expedition eventually leading to a tenuous peace agreement with the Abenaki people.</div></p>
+
+          <p><div class="text-1">By the time Phips returned from Maine on September 29, 1692, twenty persons had been executed and the accusations and arrests continued, including charges against many high-profile individuals, allegedly including Phips' own wife. At this point Phips finally let it be known that the Court of Oyer and Terminer "must fall". A new court was formed with instructions to entirely disregard spectral evidence. But Stoughton was once again selected by his peers to be Chief Justice. In late January 1693, Stoughton ordered eight graves dug in advance of his next round of his execution orders, not realizing that Phips would no longer appease him</div></p>
+
+          <p><div class="text-1">All eight were cleared by Phips' proclamations, leading Stoughton to storm from the Court. His replacement on the Court was more inclined to mercy for the accused. Beginning in February 1693, no more of the accused were condemned to die, and almost all had been released from prison by May.</div></p>
+
+</fieldset>
+ </div>
+
+
+  <div class="tribute-link"><a href="https://en.wikipedia.org/wiki/William_Phips" target="_blank"><h2> <div class="text-1">For more about Governor William Philps [click here]</div></h2></a></div>
+
+  <div class="image"div">
+    <img src="https://genealogycrossroads.com/wp-content/uploads/2021/10/White_Witch_Black_Witch_Beast_Wellcome_Library.jpg">
+    
+    <img src="https://genealogycrossroads.com/wp-content/uploads/2021/10/Witch_Woodcut1_1720_Wellcome_cropped.jpg">
+  </div>
+
+ 
+  
+
+</main>
+</body>
+</html>
